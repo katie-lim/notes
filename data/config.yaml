@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: Katie
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -7,20 +7,23 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.3"
-links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+# RESPONSIVE HEADER BUG
+# this works fine
+page_title: "Brain"
+# and this not
+page_title: "Katie's notes"
+# links:
+#   - link_name: Twitter
+#     link: https://twitter.com/_jzhao
+#   - link_name: Github
+#     link: https://github.com/jackyzha0
